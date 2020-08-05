@@ -49,23 +49,23 @@ SIAKAD Sekolah adalah sebuah web admin panel yang befungsi untuk mengelola data 
 
 ## Preview Website
 
-Check the preview on this link : http://ridzqiawanhs.my.id
+Check the preview on this link: http://ridzqiawanhs.my.id
 
 ### Login
 
-
+<img src="ss/login.PNG">
 
 ### Dashboard
 
-
+<img src="ss/dashboard.PNG">
 
 ### Siswa
 
-
+<img src="ss/siswa.PNG">
 
 ### Guru
 
-
+<img src="ss/guru.PNG">
 
 ## License
 
